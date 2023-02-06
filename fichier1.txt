@@ -1,0 +1,1 @@
+La commande pour récupérer un projet est 'git clone. 
